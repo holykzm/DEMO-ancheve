@@ -258,19 +258,3 @@ h4{font-weight:normal;font-style:normal}.j-product .cc-shop-product-desc .cc-sho
 a{font-weight:normal;font-style:normal}body .j-shop-addtocard-response a.j-shop-addtocard-response--backward:link,
 body .j-shop-addtocard-response a.j-shop-addtocard-response--backward:visited{opacity:0.7}.j-blog .j-blog-meta .j-blog-headline,
 .j-blogSelection .j-blog-headline{font-weight:normal;font-style:normal}.datetime{}.j-rss .j-rss-feed-title{font-weight:normal;font-style:normal}
-
-div#cc-m-10774770298 {
-    position: fixed!important;
-    bottom: 10px!important;
-    width: 100%!important;
-}
-.j-calltoaction-wrapper.j-calltoaction-align-2 {
-    width: 90%!important;
-    margin: 0 auto!important;
-}
-.j-callToAction .j-calltoaction-link-style-2:link, .j-callToAction .j-calltoaction-link-style-2:visited {
-    color: #ffffff!important;
-}
-.cc-pagemode-overlay input[type=submit].submitUser, .commententry input[type=submit], .j-blogarticle .blogreadmore:link, .j-blogarticle .blogreadmore:visited, .j-blogarticle .comment:link, .j-blogarticle .comment:visited, .j-callToAction .j-calltoaction-link-style-1, .j-callToAction .j-calltoaction-link-style-2, .j-callToAction .j-calltoaction-link-style-3, .j-checkout__button, .j-comment input[type=submit], .j-downloadDocument .cc-m-download-link, .j-formnew input[type=submit], .j-googlemaps .cc-map-route-submit button, .j-product .cc-shop-addtocard, .j-rss br+a[target="_blank"], .jtpl-cart .j-cart--hover-popup--call-to-action-button, .skiptoform a:link, .skiptoform a:visited {
-    background-color: #ffffff!important;
-    border: 1px solid #ffffff!important;}
